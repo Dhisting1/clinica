@@ -2,9 +2,10 @@
 
 <p>
   Este projeto foi desenvolvido utilizando as tecnlogias: 
+</p>
     * Node.js
     * Express.js
     * Vite
     * React.js
     * SQL - MySql
-</p>
+
